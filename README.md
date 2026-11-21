@@ -14,3 +14,6 @@ Projet Python/Pygame proposant une carte hexagonale RTS générée procéduralem
 ```bash
 python main.py
 ```
+
+Contributor Claude IA , Calcul
+Contributor Azryx , Engine / Main

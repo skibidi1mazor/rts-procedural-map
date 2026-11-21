@@ -9,12 +9,20 @@ Projet Python/Pygame proposant une carte hexagonale RTS générée procéduralem
 - `main.py` : boucle principale du programme
 - `Tuto.md` : explication pédagogique du fonctionnement
 
+## Installation
+
+Le projet utilise Pygame. Installe les dépendances avec :
+
+```bash
+python -m pip install -r requirements.txt
+```
+
 ## Lancement
 
 ```bash
 python main.py
 ```
 
-Contributor Azryx , Engine / Main
+Contributor Azryx, Engine / Main
 
-Contributor Claude IA , Calcul
+Contributor Claude IA, Calcul
